@@ -1,0 +1,51 @@
+body{
+    margin:0;
+    padding:0;
+    font-family: '';
+    background-image: url("7.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.bg{
+    width:500px;
+    height:350px;
+    padding:40px 40px;
+    margin-top: 130px;
+    background-color: rgba(51, 47, 47, 0.7);
+    box-shadow: 2px 4px 8px rgb(68, 67, 67);
+    border-radius:13px;
+    font-size: 25px;
+    color:white;
+}
+#input_type{
+    margin-top: 50px;
+}
+#output_type{
+    margin-top: 50px;
+}
+h1{
+    color:rgb(58, 22, 14);
+    font-size: 40px;
+    font-family: 'Cinzel';
+    margin-top: 60px;
+}
+input{
+    box-sizing: border-box;
+}
+button{
+    font-family:inherit;
+    font-size: 30px;
+    color: white;
+    border: 1px solid black;
+    cursor: pointer;
+    border-radius: 3px;
+    background-color: black;
+    padding:5px 5px 5px 5px;
+    margin-top:30px;
+}
+button:hover{
+    background-color: grey;
+}
+
+
+
